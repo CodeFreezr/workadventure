@@ -4,7 +4,7 @@
 
 Demo here : [https://workadventu.re/](https://workadventu.re/).
 
-# Work Adventure
+# Work Adventure (CF)
 
 ## Work in progress
 
